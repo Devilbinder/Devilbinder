@@ -10,3 +10,5 @@
 |**Other Things**|
 |---|
 |[![Other](https://img.youtube.com/vi/3HPKCUJqcRU/0.jpg)](https://www.youtube.com/watch?v=3HPKCUJqcRU&list=PLtuqBdbsL-Dt53HHMKdjB6HPhTYqFmze- "Other")
+
+<sub><sup>Don't ask me about your flying blender</sub></sub>
